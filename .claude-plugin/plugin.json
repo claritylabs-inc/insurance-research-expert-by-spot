@@ -1,0 +1,20 @@
+{
+  "name": "insurance-research-expert-by-spot",
+  "displayName": "Insurance Research Expert by Spot",
+  "version": "1.0.0",
+  "description": "Research commercial insurance with Spot's source-qualified public knowledge, provider comparisons, pricing, and responsible fit guidance.",
+  "author": {
+    "name": "Clarity Labs",
+    "email": "zac@spot.insure",
+    "url": "https://spot.insure"
+  },
+  "homepage": "https://spot.insure",
+  "repository": "https://github.com/claritylabs-inc/insurance-research-expert-by-spot",
+  "keywords": [
+    "commercial-insurance",
+    "insurance-research",
+    "provider-comparison",
+    "risk-management",
+    "spot"
+  ]
+}

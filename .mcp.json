@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spot-insurance-research": {
+      "type": "http",
+      "url": "https://spot.insure/mcp"
+    }
+  }
+}
